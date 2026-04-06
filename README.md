@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+## One Piece
+> **Luffy** a notorious kid who accidentally ate a bizzare fruit called ***"Devil Fruit"*** which is banned by the **World Government**. **Luffy** is a naughty kid in their village and in his childhood, he was influenced by a pirate called ***"Red Hair Shanks"***, and since then he dreamed to become a ***"Pirate King"***, the pinnacle of all pirates around the world. Since then, many challenges appear before him and his crewmates along their journey to find the treasure called ***"One Piece"***.
